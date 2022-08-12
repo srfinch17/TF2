@@ -25,6 +25,8 @@ tf_weapon_wrench.txt
 ##########################################
 Configuration files (.cfg) go here:
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg
+or if you're using mastercomfig - they go here:
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg\overrides
 
 so, put these files in that directory
 sniper.cfg
